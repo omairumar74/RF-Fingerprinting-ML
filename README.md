@@ -15,13 +15,9 @@ Radio fingerprinting is a new and emerging field with potential applications in 
 Features :
 
 Predict which device is producing the RF signal  
-
 Clean and Preprocess RF signals  
-
 Utilises CNN model functions to analyze Spectograms and power spectral density  
-
 h5py format for data storage, allowing ease of use and modularity   
-
 modular components allowing the addition of other ML Models   
 
 
