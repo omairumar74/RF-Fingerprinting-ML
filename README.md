@@ -17,7 +17,7 @@ Features :
 Predict which device is producing the RF signal  
 Clean and Preprocess RF signals  
 Utilises CNN model functions to analyze Spectograms and power spectral density  
-h5py format for data storage, allowing ease of use and modularity   
+HDF5 format for data storage, allowing ease of use and modularity   
 modular components allowing the addition of other ML Models   
 
 
