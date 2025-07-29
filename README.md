@@ -1,4 +1,4 @@
-# RFD-Fingerprinting-machine-learning-
+# RF-Fingerprinting-machine-learning-
 Analysing RF signals with machine learning models 
 
 
