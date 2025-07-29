@@ -21,7 +21,6 @@ HDF5 format for data storage, allowing ease of use and modularity
 modular components allowing the addition of other ML Models   
 
 
-
 Instillation :  
 
 git clone https://github.com/omairumar74/RF-Fingerprinting-ML.git  
